@@ -1,7 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text",
+        "title": "Test Title",
+        "text": "Test text",
         "id": "iddq"
+    },
+    {
+        "title": "My First Note",
+        "text": "Awesome application from a wonderful programmer.",
+        "id": "bd2f"
     }
 ]
