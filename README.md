@@ -11,12 +11,15 @@ Front end side generates GET\POST\DELETE request while back end side response th
 
 User should run npm start from the bash console.
 
+## Screenshot
+
+![andrii-note-taker](https://github.com/AndriiMedvediev987/andrii-note-taker/assets/144401796/3498457e-b79f-4160-a8a2-deba139fb906)
+
 ## Usage
 
 Go to the code page and download ZIP.
 Unpack ZIP file and open index.html in your browser.
 
 ## Useful links
-[Video here]()
 [Deploy here]()
 [Repository here](https://github.com/AndriiMedvediev987/andrii-note-taker.git)
